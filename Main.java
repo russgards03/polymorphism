@@ -3,7 +3,7 @@ public class Main {
 
 class Human {
     public void action() {
-        System.out.println("Animal sounds");
+        System.out.println("Human Actions");
     }
 }
 
